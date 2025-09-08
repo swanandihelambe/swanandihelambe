@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Swan
+# 👋 Hi there, I'm Swanandi
 
 🚀 Aspiring Cloud GenAI Engineer | Computer Engineering Student  
 🔧 Focused on VR Development, Generative AI, Cloud Computing, and Machine Learning
