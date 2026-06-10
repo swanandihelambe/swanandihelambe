@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Swanandi Helambe
 
-🚀 Aspiring Data Analyst | Future Cloud Data Engineer  
+Aspiring Cloud Data Engineer | AI & Analytics Enthusiast
 
 I am a Computer Engineering student focused on building strong skills in **Data Analytics**, with a long-term goal of becoming a **Cloud Data Engineer**.
 
@@ -45,9 +45,9 @@ Performed exploratory data analysis on air quality data and created visualizatio
 
 ## 📌 Currently Learning
 
-- SQL for data querying  
-- Advanced Python for data analysis  
-- Cloud (Oracle Cloud, AWS basics)  
+AWS & DevOps
+AI Application Development
+Data Engineering Fundamentals 
 
 ---
 
